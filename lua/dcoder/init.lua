@@ -1,0 +1,11 @@
+require("dcoder.packer")
+require("dcoder.keymap")
+require("dcoder.colour")
+require("dcoder.telescope")
+require("dcoder.harpoon")
+require("dcoder.options")
+require("dcoder.lsp")
+-- require("dcoder.mason")
+require("dcoder.treesitter")
+require("dcoder.other")
+
